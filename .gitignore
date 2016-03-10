@@ -1,0 +1,13 @@
+*.v.d
+*.vio
+*.vo
+*#*#
+.#*
+*.aux
+*.glob
+*.html
+*.js
+*.jpg
+*.gif
+*.css
+.DS_Store
